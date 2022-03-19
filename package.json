@@ -1,6 +1,6 @@
 {
   "name": "divblog",
-  "homepage":https://theantineutrino.github.io/Divblog/,
+  "homepage":"https://theantineutrino.github.io/Divblog/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
